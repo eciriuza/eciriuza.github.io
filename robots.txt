@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eciriuza.github.io/sitemap_index.eciriuza
